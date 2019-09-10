@@ -7,7 +7,7 @@
 
 **nodeppt 2.0** 基于[webslides](https://github.com/webslides/WebSlides)、webpack、markdown-it、posthtml 重构，[新效果](https://nodeppt.js.org)
 
-<h2 align="center">Install</h2>
+<h2 align="center">安装</h2>
 
 ```bash
 npm install -g nodeppt
